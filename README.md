@@ -6,6 +6,8 @@ This project was created to demonstrate React and Electron compatibility.
     - React-Dom
     - React Scripts
     - Redux
+    - React-Redux
+    - Redux-thunk
     - React Hooks API
     - React Context API
 
